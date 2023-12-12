@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tamirlevi/Code/SolutionForPerformanceTests/Project1/Project1.csproj",
+      "projectUniqueName": "/Users/tamirlevi/Code/dotnet-performance-tests/SolutionForPerformanceTests/Project1/Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "/Users/tamirlevi/Code/SolutionForPerformanceTests/Project1/Project1.csproj",
+      "projectPath": "/Users/tamirlevi/Code/dotnet-performance-tests/SolutionForPerformanceTests/Project1/Project1.csproj",
       "packagesPath": "/Users/tamirlevi/.nuget/packages/",
-      "outputPath": "/Users/tamirlevi/Code/SolutionForPerformanceTests/Project1/obj/",
+      "outputPath": "/Users/tamirlevi/Code/dotnet-performance-tests/SolutionForPerformanceTests/Project1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tamirlevi/.nuget/NuGet/NuGet.Config"
@@ -52,8 +52,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/tamirlevi/Code/SolutionForPerformanceTests/Project2/Project2.csproj": {
-              "projectPath": "/Users/tamirlevi/Code/SolutionForPerformanceTests/Project2/Project2.csproj"
+            "/Users/tamirlevi/Code/dotnet-performance-tests/SolutionForPerformanceTests/Project2/Project2.csproj": {
+              "projectPath": "/Users/tamirlevi/Code/dotnet-performance-tests/SolutionForPerformanceTests/Project2/Project2.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uorxq/J7KttrLAWcmIKGq2QdeGffcnu6H6Y1nk32f5V6KXY3zzTGEce0a+a03XWliyAZVTkseKrUtrXwH7NXiQ==",
+  "dgSpecHash": "bxvGRxyqDzvIj4ZV7DvM3M5eX7IPCEOxQ7DLPvt6h/lx81OGvGTRTeOMhxQq3X/ALJw+BRX7Xc5SSpiS9AFYIg==",
   "success": true,
-  "projectFilePath": "/Users/tamirlevi/Code/SolutionForPerformanceTests/Project2/Project2.csproj",
+  "projectFilePath": "/Users/tamirlevi/Code/dotnet-performance-tests/SolutionForPerformanceTests/Project2/Project2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
